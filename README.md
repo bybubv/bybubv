@@ -1,16 +1,14 @@
 ## Hi there 👋
+MEU NOME E VITOR 
 
-<!--
-**bybubv/bybubv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-SOU ESTUDANTE DO ENSINO MEDIO
 
-Here are some ideas to get you started:
+-ESTOU ESTUDANDO PELO YOUTUBE E ALURA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-ESTOU EM BUSCA DE APRENDER AS LINGUAGENS DE PROGRAMAÇÃO 
+
+PV = PROGRAMADOR'
+
+00001100960259sp@al.educacao.sp.gov.br
+
+![](https://i.pinimg.com/originals/0b/f7/10/0bf71093277cb9ec183678428668c0cd.gif)
